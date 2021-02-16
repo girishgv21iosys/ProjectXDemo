@@ -1,5 +1,4 @@
-{
-  "blogs": [
+[
     {
       "title": "Blog 1",
       "author": "Writer X",
@@ -50,4 +49,3 @@
       "id": 8
     }
   ]
-}
